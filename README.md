@@ -1,0 +1,2 @@
+### CH3OH KEO
+Exact kinetic energy operator for methanol. The original is a symbolically computed kinetic energy operator using Mathematica. This is compared against a numerically computed kinetic energy operator using the forward differences approach for automatic differentiation. 
